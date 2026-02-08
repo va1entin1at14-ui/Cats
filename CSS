@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+}
+
+main h1 {
+    text-align: right;
+    color: blueviolet;
+}
+
+main p {
+    text-align: right;
+    color: darkblue;
+}
+
+footer {
+    text-align: right;
+    color: lightskyblue
+}
+
+img {
+    text-align: left;
+    width: 300px;
+    height: 230px;
+    border: 2px solid darkblue
+}
+
+main img {
+    margin: 20px;
+    width: 340px;
+}
